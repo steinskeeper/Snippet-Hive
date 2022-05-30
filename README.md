@@ -19,6 +19,11 @@ are created and shared to give better snippet suggestions
 * Tailwind CSS
 * Transformers
 
+## Design
+
+![Design](https://i.ibb.co/FKYjNps/uio.png)
+
+
 ## Problem Statement
 
 It is an often occurrence for programmers to go in search of a particular code snippet
@@ -30,9 +35,6 @@ recommendation system so programmers can find exactly what they are looking for
 when they actually need it.
 
 
-## Design
-
-![Design](https://i.ibb.co/FKYjNps/uio.png)
 
 ## Schema
 <p align="center">
